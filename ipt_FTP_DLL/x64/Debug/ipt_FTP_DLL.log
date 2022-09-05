@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ipt_FTP_DLL.cpp
+e:\tools\ipt_ftp_dll\ipt_ftp_dll\ipt_ftp_dll.cpp(37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\tools\ipt_ftp_dll\ipt_ftp_dll\ipt_ftp_dll.cpp(40): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+e:\tools\ipt_ftp_dll\ipt_ftp_dll\ipt_ftp_dll.cpp(57): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  ftp.cpp
+e:\tools\ipt_ftp_dll\ipt_ftp_dll\ftp.cpp(125): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+e:\tools\ipt_ftp_dll\ipt_ftp_dll\ftp.cpp(126): warning C4267: “参数”: 从“size_t”转换到“jsize”，可能丢失数据
+  正在生成代码...
+    正在创建库 E:\Tools\ipt_FTP_DLL\x64\Debug\ipt_FTP_DLL.lib 和对象 E:\Tools\ipt_FTP_DLL\x64\Debug\ipt_FTP_DLL.exp
+  ipt_FTP_DLL.vcxproj -> E:\Tools\ipt_FTP_DLL\x64\Debug\ipt_FTP_DLL.dll
